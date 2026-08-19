@@ -19,7 +19,7 @@ A self-updating web version of Jason's NHL playoff pool, rebuilt from the 2025 a
 
 GitHub Pages publishes the `docs/` folder through `.github/workflows/deploy.yml`.
 
-After Pages is enabled with **Settings → Pages → Source: GitHub Actions**, the site URL is normally:
+Pages is configured to deploy with GitHub Actions. The public site is:
 
 `https://jmscholz19.github.io/nhl-playoff-pool/`
 
