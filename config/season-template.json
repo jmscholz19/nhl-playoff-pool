@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "season": 2027,
+  "seasonId": "20262027",
+  "poolName": "2027 NHL Playoff Pool",
+  "timezone": "America/Edmonton",
+  "entrants": [{"name":"Norm","color":"#50A7FF"},{"name":"Bee","color":"#FFD166"},{"name":"Jay","color":"#FF6B6B"},{"name":"Finney","color":"#70D6A8"}],
+  "scoring":{"playerGoal":1,"playerAssist":1,"teamWin":1,"seriesWin":2},
+  "draftValue":{"slope":0.156,"intercept":14.647},
+  "selections":[{"type":"player","owner":"Norm","draftRound":1,"draftNumber":1,"name":"Example Player","playerId":8470000,"teamAbbrev":"COL"},{"type":"team","owner":"Bee","draftRound":1,"draftNumber":2,"name":"Carolina","teamAbbrev":"CAR"}]
+}

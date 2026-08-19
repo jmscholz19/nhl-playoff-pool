@@ -1,0 +1,5 @@
+{
+  "name":"nhl-playoff-pool","version":"1.0.0","private":true,"type":"module",
+  "scripts":{"test":"node --test","update":"node scripts/update-live.mjs","validate":"node scripts/validate-config.mjs","dev":"node scripts/serve.mjs"},
+  "engines":{"node":">=20"}
+}
