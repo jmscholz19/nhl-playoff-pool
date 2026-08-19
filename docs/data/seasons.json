@@ -1,0 +1,7 @@
+{
+  "defaultSeason": 2026,
+  "seasons": [
+    { "season": 2025, "label": "2025", "file": "data/2025.json", "status": "complete" },
+    { "season": 2026, "label": "2026", "file": "data/2026.json", "status": "complete" }
+  ]
+}
